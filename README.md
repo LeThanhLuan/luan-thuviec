@@ -9,10 +9,10 @@ Chúng ta sẽ sử dụng Git và Markdown như là công cụ để soạn th�
 
 Dưới đây là các mục trong phần này:
 
-- [ ] Tìm hiểu cơ bản về [Markdown](https://daringfireball.net/projects/markdown/).
-- [ ] Tìm hiểu cơ bản về [Git](http://git-scm.org).
-- [ ] Tạo tài khoản [Github](https://github.com).
-- [ ] Fork kho `git` này tạo thành kho cá nhân.
+- [x] Tìm hiểu cơ bản về [Markdown](https://daringfireball.net/projects/markdown/).
+- [x] Tìm hiểu cơ bản về [Git](http://git-scm.org).
+- [x] Tạo tài khoản [Github](https://github.com).
+- [x] Fork kho `git` này tạo thành kho cá nhân.
 - [ ] Thực hiện các nội dung trong mục này, và đẩy (`pull`) vào kho này như nộp báo cáo.
 
 ### Các tài nguyên, hướng dẫn mức độ bắt đầu
